@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	for i := 2; i <= 100; i++ {
+	for i := 2; i <= 10000; i++ {
 		counter := 0
 		for j := i - 1; j > 1; j-- {
 
